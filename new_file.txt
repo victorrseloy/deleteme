@@ -1,1 +1,5 @@
 this is a new file. It only exists inside branch 1
+
+insignificant change
+
+relevant change
